@@ -1,0 +1,27 @@
+body {
+
+          
+    background-image: url('../images/bg.jpg') !important; 
+
+
+}
+
+form .error {
+	border: 1px solid red;
+}
+
+
+.center {
+    margin: auto;
+    width: 480px;
+
+    padding: 25px;
+    box-shadow: 2px 2px 5px #aaaaaa;
+    background-color: white;
+
+    }
+    .row { padding: 3px !important;}
+
+    .shdw {box-shadow: 2px 2px 5px #aaaaaa;
+
+    }
